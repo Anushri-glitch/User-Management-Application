@@ -98,17 +98,17 @@ public class UserController {
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :four: Project Summary
 ### :o: Project result 
-#### :purple_square: Add User By Postman - localhost:8080/api/userManagement/manage-app/add-user
+### :purple_square: Add User By Postman - localhost:8080/api/userManagement/manage-app/add-user
 ![A2](https://user-images.githubusercontent.com/47708011/233684901-f5aff389-cccd-45ff-a5b8-12cf504d7650.png)
 
-#### :purple_square: Get All Users By Browser - http://localhost:8080/api/userManagement/manage-app/get-allUser
+### :purple_square: Get All Users By Browser - http://localhost:8080/api/userManagement/manage-app/get-allUser
 ![A1](https://user-images.githubusercontent.com/47708011/233685153-262f5b6f-393b-48c0-a132-e5959d12b841.png)
 
-#### :purple_square: Update User By Postman - localhost:8080/api/userManagement/manage-app/update-User/id/{id}
+### :purple_square: Update User By Postman - localhost:8080/api/userManagement/manage-app/update-User/id/{id}
 ![A3](https://user-images.githubusercontent.com/47708011/233685479-6c3ba4a1-0b92-4edb-93ef-7d4b78170662.png)
 ![A4](https://user-images.githubusercontent.com/47708011/233685761-734b7247-601a-405b-b868-e57de2bf12a3.png)
 
-#### :purple_square: Delete User By Postman - localhost:8080/api/userManagement/manage-app/delete-User/id/{id}
+### :purple_square: Delete User By Postman - localhost:8080/api/userManagement/manage-app/delete-User/id/{id}
 ![A5](https://user-images.githubusercontent.com/47708011/233686091-798000ba-9dd2-4ae6-848f-10fd58cd8a3f.png)
 ![A6](https://user-images.githubusercontent.com/47708011/233686356-875c7d70-217f-4fb9-b74f-c5bde2de2aac.png)
 
